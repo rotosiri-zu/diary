@@ -1399,3 +1399,8 @@
 - wantedly.greenで求人に応募
 - やんばるエキスパートruby RSpec教材Part3実装
 - もくもく会に参加
+# 2021/5/20
+# 今日のやることリスト
+- wantedly.greenで求人に応募
+- やんばるエキスパートruby RSpec教材Part3実装
+- もくもく会に参加
