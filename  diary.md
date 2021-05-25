@@ -1425,3 +1425,8 @@
 - wantedly.forkwellで求人に応募
 - やんばるエキスパートruby RSpec教材Part4実装
 - もくもく会に参加
+# 2021/5/25
+# 今日のやることリスト
+- wantedly.forkwellで求人に応募
+- やんばるエキスパートruby RSpec教材Part4実装
+- もくもく会に参加
